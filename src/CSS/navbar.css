@@ -1,0 +1,28 @@
+.Nav{
+    text-decoration: none;
+    display: flex;
+    background-color: rgb(141, 141, 141);
+}
+
+.title-link {
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    position: relative;
+    left: 300px;
+    top: 3px;
+}
+li {
+    padding: 0px 50px 0px 50px;
+    list-style: none;
+}
